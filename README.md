@@ -1,4 +1,5 @@
 - 👋 Olá sou Fabio Barbosa
 - 👀 Estudando Android - Kotlin
+- 🖥️ Ebac - Cursos
 - 🙌 Procurando sempre aprender mais
 - 📫 Contato-me no e-mail - hofabioz@gmail.com
