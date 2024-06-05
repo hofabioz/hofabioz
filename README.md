@@ -3,3 +3,4 @@
 - 🖥️ Ebac - Cursos
 - 🙌 Procurando sempre aprender mais
 - 📫 Contato-me no e-mail - hofabioz@gmail.com
+- Estudando - Fullstack - DevCluv - 2024
