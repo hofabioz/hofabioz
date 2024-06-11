@@ -4,3 +4,4 @@
 - 🙌 Procurando sempre aprender mais
 - 📫 Contato-me no e-mail - hofabioz@gmail.com
 
+- 🥑 Atualmente aprendendo HTML, CSS E COMEÇANDO JavaScrit e React.
